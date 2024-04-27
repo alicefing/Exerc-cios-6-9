@@ -1,0 +1,1 @@
+#Para exceções em módulos e pacotes Python, use blocos try...except para capturar e lidar com erros específicos. Você #pode criar exceções personalizadas para casos específicos e usar blocos finally para garantir a execução de ações de #limpeza

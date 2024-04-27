@@ -1,0 +1,2 @@
+#Para lidar com exceções assíncronas em Python, use try...except em funções assíncronas ou com métodos como asyncio.
+#gather() para organizar operações assíncronas e tratar exceções de forma controlada. 

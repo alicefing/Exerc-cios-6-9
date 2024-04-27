@@ -1,0 +1,1 @@
+#Ao encadear exceções em Python, você lança uma nova exceção dentro de um bloco except, usando a palavra-chave from #seguida pela exceção origina.

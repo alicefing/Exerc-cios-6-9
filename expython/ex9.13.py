@@ -1,0 +1,1 @@
+#O encadeamento de exceções em Python é o processo de propagar uma exceção através de diferentes partes do código. Quando #uma exceção é capturada e uma nova exceção é lançada em resposta, a exceção original pode ser associada à nova exceção #como causa

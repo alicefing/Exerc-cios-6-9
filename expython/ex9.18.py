@@ -1,0 +1,1 @@
+#Lidar com exceções em módulos e pacotes Python é crucial para manter a estabilidade do código, diagnosticar problemas e #garantir que o programa funcione de maneira confiável em situações inesperadas

@@ -1,0 +1,1 @@
+#As exceções em Python são eventos que ocorrem durante a execução de um programa devido a erros ou condições inesperadas. #Elas podem ser capturadas e tratadas usando blocos try-except para evitar o encerramento abrupto do programa.

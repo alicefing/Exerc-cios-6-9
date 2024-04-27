@@ -1,0 +1,1 @@
+#Criar exceções personalizadas torna mais fácil para os desenvolvedores entenderem e lidarem com erros específicos em um #programa, agrupando erros relacionados e encapsulando a lógica de tratamento de erros em classes dedicadas

@@ -1,0 +1,1 @@
+#Exceções assíncronas em Python são lançadas durante a execução de código assíncrono, como em corrotinas assíncronas. #Elas ocorrem fora do fluxo de execução principal e podem ser capturadas e tratadas usando construções como try...except #dentro de corrotinas assíncronas ou métodos específicos

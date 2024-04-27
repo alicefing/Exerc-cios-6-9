@@ -1,0 +1,1 @@
+#Outro exemplo comum é em operações de acesso a recursos externos, como arquivos ou conexões de rede. Se ocorrerem #problemas durante essas operações, como um arquivo não existir ou uma conexão de rede ser perdida, um bloco try/except #pode capturar as exceções e lidar com elas adequadamente.

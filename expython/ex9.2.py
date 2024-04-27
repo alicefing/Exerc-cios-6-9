@@ -1,0 +1,1 @@
+#Tratar exceções garante que o código seja capaz de lidar com situações inesperadas, como erros de entrada de dados ou #problemas de conexão. Isso ajuda a manter a estabilidade do programa, melhorando sua confiabilidade.

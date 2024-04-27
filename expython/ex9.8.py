@@ -1,0 +1,1 @@
+#O bloco finally em conjunto com try/except garante que operações importantes sejam sempre executadas, independentemente #de ocorrer uma exceção ou não. Isso torna o programa mais robusto, garantindo que recursos sejam liberados corretamente.
